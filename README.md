@@ -1,4 +1,4 @@
-- 👋 Hi, I’m faris
+- 👋 Hi, I’m Salmanul faris
 - 👀 I’m interested in full stack development of both android and web development
 - 🌱 I’m a post graduate student
 
